@@ -1,0 +1,3 @@
+url=https://google.com
+filePathExcel=./data/Prueba.xlsx
+outputFile = ./output/
